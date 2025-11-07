@@ -5,11 +5,7 @@ Repository for the assignments suggested by **AUTOLEADS**, structured and upload
 ## 📘 Table of Contents
 - [About](#about)  
 - [Repository Structure](#repository-structure)  
-- [Getting Started](#getting-started)  
-- [How to Use](#how-to-use)  
-- [Technologies Used](#technologies-used)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Getting Started](#getting-started)   
 
 ---
 
